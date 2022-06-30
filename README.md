@@ -1,2 +1,2 @@
 # ESP32_CAM_LIVE
-A low-latency, concise solution to using the ESP32 and OV2640 2MP Camera Module
+A simple and free open-source, low-latency, GTK powered AppImage solution to using the ESP32 + OV2640 2MP Camera Module
