@@ -1,0 +1,10 @@
+make: Entering directory 'c:/Users/Ian/VSCode_Projects/ESP32_CAM_LIVE'
+ 
+Makefile:8: /make/project.mk: No such file or directory
+make: *** No rule to make target '/make/project.mk'.
+
+make: Failed to remake makefile '/make/project.mk'.
+make: *** No targets.  Stop.
+
+make: Leaving directory 'c:/Users/Ian/VSCode_Projects/ESP32_CAM_LIVE'
+ 
