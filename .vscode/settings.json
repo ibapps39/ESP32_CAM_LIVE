@@ -1,3 +1,11 @@
 {
-    "makefile.extensionOutputFolder": "./.vscode"
+    "makefile.extensionOutputFolder": "./.vscode",
+    "idf.espIdfPath": "/Users/ian/esp/esp-idf",
+    "idf.pythonBinPath": "/Users/ian/Embedded_Stuff/ESP_IDF_VSCode_Ext/.espressif/python_env/idf5.0_py3.11_env/bin/python",
+    "idf.toolsPath": "/Users/ian/Embedded_Stuff/ESP_IDF_VSCode_Ext/.espressif",
+    "idf.customExtraPaths": "/Users/ian/Embedded_Stuff/ESP_IDF_VSCode_Ext/.espressif/tools/xtensa-esp32-elf/esp32-2019r1-8.2.0/xtensa-esp32-elf/bin:/Users/ian/Embedded_Stuff/ESP_IDF_VSCode_Ext/.espressif/tools/xtensa-esp32s2-elf/esp32s2-dev-4-g3a626e9-8.2.0/xtensa-esp32s2-elf/bin:/Users/ian/Embedded_Stuff/ESP_IDF_VSCode_Ext/.espressif/tools/esp32ulp-elf/2.28.51.20170517/esp32ulp-elf-binutils/bin:/Users/ian/Embedded_Stuff/ESP_IDF_VSCode_Ext/.espressif/tools/cmake/3.13.4/CMake.app/Contents/bin:/Users/ian/Embedded_Stuff/ESP_IDF_VSCode_Ext/.espressif/tools/openocd-esp32/v0.10.0-esp32-20190708/openocd-esp32/bin:/Users/ian/Embedded_Stuff/ESP_IDF_VSCode_Ext/.espressif/tools/ninja/1.9.0",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/Users/ian/Embedded_Stuff/ESP_IDF_VSCode_Ext/.espressif/tools/openocd-esp32/v0.10.0-esp32-20190708/openocd-esp32/share/openocd/scripts"
+    },
+    "idf.gitPath": "git"
 }
